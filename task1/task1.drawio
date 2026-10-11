@@ -1,0 +1,299 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Страница-1" id="K42SNxHVjsNSqsuccaD8">
+    <mxGraphModel dx="870" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="j175gEkqiiD8oDKbkapG-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;rotation=0;" value="Начало" vertex="1">
+          <mxGeometry height="40" width="120" x="353" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="j175gEkqiiD8oDKbkapG-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;rotation=0;" value="Конец" vertex="1">
+          <mxGeometry height="40" width="120" x="329" y="2040" as="geometry" />
+        </mxCell>
+        <mxCell id="j175gEkqiiD8oDKbkapG-3" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;rotation=0;" value="Ввод стоку string" vertex="1">
+          <mxGeometry height="80" width="120" x="353" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="j175gEkqiiD8oDKbkapG-4" edge="1" parent="1" source="j175gEkqiiD8oDKbkapG-3" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="j175gEkqiiD8oDKbkapG-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="300" y="130" as="sourcePoint" />
+            <mxPoint x="350" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j175gEkqiiD8oDKbkapG-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" value="&lt;font color=&quot;#090909&quot; face=&quot;JetBrains Mono, monospace&quot;&gt;Создаём списки words и new_words&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="353" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="j175gEkqiiD8oDKbkapG-6" edge="1" parent="1" source="j175gEkqiiD8oDKbkapG-5" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="j175gEkqiiD8oDKbkapG-3" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="440" y="260" as="sourcePoint" />
+            <mxPoint x="490" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j175gEkqiiD8oDKbkapG-8" edge="1" parent="1" source="j175gEkqiiD8oDKbkapG-25" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="j175gEkqiiD8oDKbkapG-5" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="414" y="330" as="sourcePoint" />
+            <mxPoint x="220" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j175gEkqiiD8oDKbkapG-14" edge="1" parent="1" source="j175gEkqiiD8oDKbkapG-40" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="850" />
+              <mxPoint x="80" y="850" />
+              <mxPoint x="80" y="720" />
+              <mxPoint x="80" y="370" />
+            </Array>
+            <mxPoint x="400" y="920" as="sourcePoint" />
+            <mxPoint x="414" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j175gEkqiiD8oDKbkapG-17" edge="1" parent="1" source="j175gEkqiiD8oDKbkapG-49" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;entryX=0.963;entryY=0.496;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryPerimeter=0;" target="j175gEkqiiD8oDKbkapG-26" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="880" />
+              <mxPoint x="680" y="880" />
+              <mxPoint x="680" y="419.68" />
+            </Array>
+            <mxPoint x="420" y="1050" as="sourcePoint" />
+            <mxPoint x="473" y="490.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j175gEkqiiD8oDKbkapG-19" edge="1" parent="1" source="j175gEkqiiD8oDKbkapG-27" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="j175gEkqiiD8oDKbkapG-26" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="414" y="585" as="sourcePoint" />
+            <mxPoint x="413" y="530.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j175gEkqiiD8oDKbkapG-22" edge="1" parent="1" source="j175gEkqiiD8oDKbkapG-26" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="j175gEkqiiD8oDKbkapG-25" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="470.0000000000001" as="sourcePoint" />
+            <mxPoint x="391" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j175gEkqiiD8oDKbkapG-23" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;rotation=0;" value="Выводим списки words и new_words" vertex="1">
+          <mxGeometry height="80" width="120" x="329" y="1900" as="geometry" />
+        </mxCell>
+        <mxCell id="j175gEkqiiD8oDKbkapG-24" edge="1" parent="1" source="j175gEkqiiD8oDKbkapG-2" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="j175gEkqiiD8oDKbkapG-23" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="360" y="970" as="sourcePoint" />
+            <mxPoint x="410" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j175gEkqiiD8oDKbkapG-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" value="&lt;font color=&quot;#090909&quot; face=&quot;JetBrains Mono, monospace&quot;&gt;Создаём пустую строчку word и счётчик i&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="353" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="j175gEkqiiD8oDKbkapG-26" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;rotation=0;" value="&lt;font&gt;while i &amp;lt; len(string)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="354" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="j175gEkqiiD8oDKbkapG-27" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;rotation=0;" value="string[i] != &#39; &#39;" vertex="1">
+          <mxGeometry height="80" width="120" x="354" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="j175gEkqiiD8oDKbkapG-28" edge="1" parent="1" source="j175gEkqiiD8oDKbkapG-33" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="j175gEkqiiD8oDKbkapG-27" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="520" />
+            </Array>
+            <mxPoint x="240" y="560" as="sourcePoint" />
+            <mxPoint x="250" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j175gEkqiiD8oDKbkapG-29" edge="1" parent="1" source="j175gEkqiiD8oDKbkapG-30" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="j175gEkqiiD8oDKbkapG-27" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="520" />
+            </Array>
+            <mxPoint x="590" y="590" as="sourcePoint" />
+            <mxPoint x="460" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j175gEkqiiD8oDKbkapG-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" value="&lt;font color=&quot;#090909&quot; face=&quot;JetBrains Mono, monospace&quot;&gt;Добавляем к word элемент string под индексом i&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="530" y="545" as="geometry" />
+        </mxCell>
+        <mxCell id="j175gEkqiiD8oDKbkapG-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="True" vertex="1">
+          <mxGeometry height="30" width="60" x="530" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="j175gEkqiiD8oDKbkapG-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="False" vertex="1">
+          <mxGeometry height="30" width="60" x="240" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="j175gEkqiiD8oDKbkapG-33" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;rotation=0;" value="word - не пустая стока" vertex="1">
+          <mxGeometry height="80" width="120" x="180" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="j175gEkqiiD8oDKbkapG-34" edge="1" parent="1" source="j175gEkqiiD8oDKbkapG-39" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="j175gEkqiiD8oDKbkapG-33" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="570" />
+            </Array>
+            <mxPoint x="360" y="640" as="sourcePoint" />
+            <mxPoint x="320" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j175gEkqiiD8oDKbkapG-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="True" vertex="1">
+          <mxGeometry height="30" width="60" x="300" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="j175gEkqiiD8oDKbkapG-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="False" vertex="1">
+          <mxGeometry height="30" width="60" x="110" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="j175gEkqiiD8oDKbkapG-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" value="&lt;font color=&quot;#090909&quot; face=&quot;JetBrains Mono, monospace&quot;&gt;Добавляем word в в words и делаем word пустой строкой&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="300" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="j175gEkqiiD8oDKbkapG-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" value="&lt;font color=&quot;#090909&quot; face=&quot;JetBrains Mono, monospace&quot;&gt;Добавляем 1 к счётчику i&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="320" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="j175gEkqiiD8oDKbkapG-41" edge="1" parent="1" source="j175gEkqiiD8oDKbkapG-40" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="320" y="790" as="sourcePoint" />
+            <mxPoint x="380" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j175gEkqiiD8oDKbkapG-49" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;rotation=0;" value="word - не пустая стока" vertex="1">
+          <mxGeometry height="80" width="120" x="329" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="j175gEkqiiD8oDKbkapG-50" edge="1" parent="1" source="j175gEkqiiD8oDKbkapG-53" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="j175gEkqiiD8oDKbkapG-49" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="940" />
+            </Array>
+            <mxPoint x="509" y="1060" as="sourcePoint" />
+            <mxPoint x="469" y="1040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j175gEkqiiD8oDKbkapG-51" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="True" vertex="1">
+          <mxGeometry height="30" width="60" x="460" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="j175gEkqiiD8oDKbkapG-52" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="False" vertex="1">
+          <mxGeometry height="30" width="60" x="269" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="j175gEkqiiD8oDKbkapG-53" parent="1" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" value="&lt;font color=&quot;#090909&quot; face=&quot;JetBrains Mono, monospace&quot;&gt;Добавляем word в в words&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="460" y="960" as="geometry" />
+        </mxCell>
+        <mxCell id="j175gEkqiiD8oDKbkapG-54" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="j175gEkqiiD8oDKbkapG-49" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="1060" />
+              <mxPoint x="260" y="1060" />
+              <mxPoint x="260" y="940" />
+            </Array>
+            <mxPoint x="390" y="1140" as="sourcePoint" />
+            <mxPoint x="319" y="990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j175gEkqiiD8oDKbkapG-55" parent="1" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" value="&lt;font color=&quot;#090909&quot; face=&quot;JetBrains Mono, monospace&quot;&gt;Переворачиваем список word&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="329" y="1089" as="geometry" />
+        </mxCell>
+        <mxCell id="j175gEkqiiD8oDKbkapG-58" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;rotation=0;" value="Проходимся по элементам в words" vertex="1">
+          <mxGeometry height="80" width="120" x="329" y="1190" as="geometry" />
+        </mxCell>
+        <mxCell id="j175gEkqiiD8oDKbkapG-59" edge="1" parent="1" source="j175gEkqiiD8oDKbkapG-55" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="j175gEkqiiD8oDKbkapG-58" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="500" y="1400" as="sourcePoint" />
+            <mxPoint x="550" y="1350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j175gEkqiiD8oDKbkapG-60" parent="1" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" value="&lt;font color=&quot;#090909&quot; face=&quot;JetBrains Mono, monospace&quot;&gt;Создаём пустую строку new_word&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="329" y="1300" as="geometry" />
+        </mxCell>
+        <mxCell id="j175gEkqiiD8oDKbkapG-61" edge="1" parent="1" source="j175gEkqiiD8oDKbkapG-58" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="j175gEkqiiD8oDKbkapG-60" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="520" y="1230" as="sourcePoint" />
+            <mxPoint x="520" y="1260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j175gEkqiiD8oDKbkapG-64" edge="1" parent="1" source="j175gEkqiiD8oDKbkapG-55" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.507;exitY=-0.002;exitDx=0;exitDy=0;exitPerimeter=0;" target="j175gEkqiiD8oDKbkapG-53" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="1060" />
+              <mxPoint x="520" y="1060" />
+            </Array>
+            <mxPoint x="400" y="1080" as="sourcePoint" />
+            <mxPoint x="550" y="1110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j175gEkqiiD8oDKbkapG-65" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;rotation=0;" value="Проходимся по элементам в word" vertex="1">
+          <mxGeometry height="80" width="120" x="329" y="1410" as="geometry" />
+        </mxCell>
+        <mxCell id="j175gEkqiiD8oDKbkapG-66" edge="1" parent="1" source="j175gEkqiiD8oDKbkapG-65" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="j175gEkqiiD8oDKbkapG-60" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="230" y="1450" as="sourcePoint" />
+            <mxPoint x="280" y="1400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j175gEkqiiD8oDKbkapG-67" parent="1" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" value="&lt;font color=&quot;#090909&quot; face=&quot;JetBrains Mono, monospace&quot;&gt;Добавляем к new_word элемент спереди&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="329" y="1510" as="geometry" />
+        </mxCell>
+        <mxCell id="j175gEkqiiD8oDKbkapG-68" edge="1" parent="1" source="j175gEkqiiD8oDKbkapG-67" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="j175gEkqiiD8oDKbkapG-65" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="270" y="1560" as="sourcePoint" />
+            <mxPoint x="320" y="1510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j175gEkqiiD8oDKbkapG-69" edge="1" parent="1" source="j175gEkqiiD8oDKbkapG-67" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="j175gEkqiiD8oDKbkapG-65" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="389" y="1610" />
+              <mxPoint x="250" y="1610" />
+              <mxPoint x="250" y="1450" />
+            </Array>
+            <mxPoint x="260" y="1700" as="sourcePoint" />
+            <mxPoint x="310" y="1650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j175gEkqiiD8oDKbkapG-71" parent="1" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" value="&lt;font color=&quot;#090909&quot; face=&quot;JetBrains Mono, monospace&quot;&gt;Добавляем new_word в new_words&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="329" y="1660" as="geometry" />
+        </mxCell>
+        <mxCell id="j175gEkqiiD8oDKbkapG-72" edge="1" parent="1" source="j175gEkqiiD8oDKbkapG-71" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;exitX=0.508;exitY=-0.003;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" target="j175gEkqiiD8oDKbkapG-65" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="1640" />
+              <mxPoint x="520" y="1640" />
+              <mxPoint x="520" y="1450" />
+            </Array>
+            <mxPoint x="560" y="1620" as="sourcePoint" />
+            <mxPoint x="450" y="1450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j175gEkqiiD8oDKbkapG-73" edge="1" parent="1" source="j175gEkqiiD8oDKbkapG-71" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="j175gEkqiiD8oDKbkapG-58" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="1790" />
+              <mxPoint x="190" y="1790" />
+              <mxPoint x="190" y="1230" />
+            </Array>
+            <mxPoint x="200" y="1360" as="sourcePoint" />
+            <mxPoint x="250" y="1310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j175gEkqiiD8oDKbkapG-74" edge="1" parent="1" source="j175gEkqiiD8oDKbkapG-23" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="j175gEkqiiD8oDKbkapG-58" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="1840" />
+              <mxPoint x="600" y="1840" />
+              <mxPoint x="600" y="1230" />
+            </Array>
+            <mxPoint x="590" y="1380" as="sourcePoint" />
+            <mxPoint x="640" y="1330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j175gEkqiiD8oDKbkapG-75" edge="1" parent="1" source="j175gEkqiiD8oDKbkapG-39" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="j175gEkqiiD8oDKbkapG-33" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="710" />
+              <mxPoint x="120" y="710" />
+              <mxPoint x="120" y="570" />
+            </Array>
+            <mxPoint x="330" y="720" as="sourcePoint" />
+            <mxPoint x="310" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j175gEkqiiD8oDKbkapG-76" edge="1" parent="1" source="j175gEkqiiD8oDKbkapG-30" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="730" />
+              <mxPoint x="240" y="730" />
+            </Array>
+            <mxPoint x="260" y="740" as="sourcePoint" />
+            <mxPoint x="240" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
